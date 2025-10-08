@@ -57,7 +57,7 @@ namespace ProductApi.Controllers
             return NoContent();
         }
 
-        // BONUS: GET /api/products/search?name=abc
+        // BONUS: GET /api/products/searchname=abc
         [HttpGet("search")]
         public IActionResult SearchByName([FromQuery] string name)
         {
