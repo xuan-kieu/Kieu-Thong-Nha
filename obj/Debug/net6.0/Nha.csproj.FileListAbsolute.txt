@@ -1,0 +1,7 @@
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.csproj.AssemblyReference.cache
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.GeneratedMSBuildEditorConfig.editorconfig
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.AssemblyInfoInputs.cache
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.AssemblyInfo.cs
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.csproj.CoreCompileInputs.cache
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.MvcApplicationPartsAssemblyInfo.cs
+C:\nha\Kieu-Thong-Nha\obj\Debug\net6.0\Nha.MvcApplicationPartsAssemblyInfo.cache
