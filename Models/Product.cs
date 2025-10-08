@@ -1,16 +1,16 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace MyApiProject.Models
+namespace ProductApi.Models
 {
     public class Product
     {
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Tên sản phẩm là bắt buộc")]
-        [StringLength(100, ErrorMessage = "Tên sản phẩm không được vượt quá 100 ký tự")]
+        [Required]
+        [StringLength(100)]
         public string Name { get; set; }
 
-        [Range(0.01, double.MaxValue, ErrorMessage = "Giá sản phẩm phải lớn hơn 0")]
+        [Range(0.01, double.MaxValue, ErrorMessage = "Price must be greater than 0.")]
         public double Price { get; set; }
 
         public string Description { get; set; }
