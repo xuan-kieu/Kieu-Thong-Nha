@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\thong\\thong.csproj",
-      "projectName": "thong",
-      "projectPath": "C:\\thong\\thong.csproj",
+      "projectUniqueName": "C:\\Nha\\Nha.csproj",
+      "projectName": "Nha",
+      "projectPath": "C:\\Nha\\Nha.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\thong\\obj\\",
+      "outputPath": "C:\\Nha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

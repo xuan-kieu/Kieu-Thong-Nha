@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace thong.Controllers;
+namespace Nha.Controllers;
 
 [ApiController]
 [Route("[controller]")]
